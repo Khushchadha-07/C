@@ -1,0 +1,5 @@
+#include<studio.h>
+{
+  int main r, square,
+  cout<<"enter the no. to verify if its a golden square or not""<<endl;
+  
