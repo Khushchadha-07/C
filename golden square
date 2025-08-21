@@ -2,4 +2,7 @@
 {
   int main r, square,
   cout<<"enter the no. to verify if its a golden square or not""<<endl;
-  
+  cin>>r;
+r crt >100 !c;
+if r crt>100 !c 
+cout<<" not a golden sq
